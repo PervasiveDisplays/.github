@@ -1,2 +1,0 @@
-# .github
-Pervasive Displays Inc.
