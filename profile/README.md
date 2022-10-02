@@ -1,4 +1,4 @@
-# Welcome Pervasive Displays Inc. site on GitHub
+# Welcome to Pervasive Displays Inc. repository on GitHub
 
 ![](https://github.com/PervasiveDisplays/.github/blob/main/profile/ProductLine.png)
 
