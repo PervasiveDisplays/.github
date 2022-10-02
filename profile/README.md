@@ -1,4 +1,4 @@
-# Pervasive Displays Inc.
+# Welcome Pervasive Displays Inc. site on GitHub
 
 ![](https://github.com/PervasiveDisplays/.github/blob/main/profile/ProductLine.png)
 
@@ -29,7 +29,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 
 **Software**
 
-* Wiring-Arduino SDK
+* Arduino SDK and IDE
 * SPI library
 * I²C / Wire library for touch
 
