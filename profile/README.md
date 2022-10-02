@@ -2,7 +2,7 @@
 
 ![](https://github.com/PervasiveDisplays/.github/blob/main/profile/ProductLine.png)
 
-Pervasive Displays designs, manufactures and markets e-paper displays (EPD) for applications requiring high resolution, good readability and low power consumption. Pervasive Displays focuses on commercial and industrial applications and is the world leading vendor with most experience in E Ink e-paper technology. 
+**Pervasive Displays Inc.** designs, manufactures and markets e-paper displays (EPD) for applications requiring high resolution, good readability and low power consumption. Pervasive Displays focuses on commercial and industrial applications and is the world leading vendor with most experience in E Ink e-paper technology. 
 
 ## EPD hardware drivers
 
