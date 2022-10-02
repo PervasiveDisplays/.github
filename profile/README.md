@@ -18,7 +18,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 
 * [PDLS_EXT3_Basic](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic) for Pervasive Displays iTC monochrome and colour (white-black-red) screens with EXT3 extension kit
 * [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome 2.71 with embedded fast update screen with EXT3 extension kit
-* [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens and EXT3-Touch extension kit
+* [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens with EXT3-Touch extension kit
 
 ## Documentation
 
