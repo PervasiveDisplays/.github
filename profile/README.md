@@ -14,7 +14,7 @@ The **EPD hardware drivers** provide a quick example with built-in images for te
 
 ## Pervasive Displays Library Suite 
 
-The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch.
+The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
 
 * [PDLS_EXT3_Basic](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic) for Pervasive Displays iTC monochrome and colour (white-black-red) screens with EXT3 extension kit
 * [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome 2.71 with embedded fast update screen with EXT3 extension kit
