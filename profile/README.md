@@ -12,6 +12,9 @@ The **EPD hardware drivers** provide a quick example with built-in images for te
 * [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for mid-sized 5.81" and 7.41" screens
 * [EPD_Driver_GU_large](https://github.com/PervasiveDisplays/EPD_Driver_GU_large) for large-sized 9.69" and 11.98" screens
 
+* [EPD_Driver_GF_small](https://github.com/PervasiveDisplays/EPD_Driver_GF_small) for PS/KS-type small-sized 1.54", 2.13", 2.66", 2.71", 2.87", 3.70", 4.17" and 4.37" screens
+* [EPD_Driver_GF_581](https://github.com/PervasiveDisplays/EPD_Driver_GF_581) for PS-type mid-sized 5.81" screens
+
 ## Pervasive Displays Library Suite 
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
