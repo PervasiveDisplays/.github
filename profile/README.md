@@ -20,10 +20,10 @@ The **EPD hardware drivers** provide a quick example with built-in images for te
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
 
-* [PDLS_EXT3_Basic](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic) for Pervasive Displays iTC monochrome and colour (black-white-red) screens with EXT3-1 extension kit
-* [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome 2.71 with embedded fast update screen with EXT3-1 extension kit
+* [PDLS_EXT3_Basic](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic) for Pervasive Displays iTC monochrome and colour Spectra (black-white-red) screens with EXT3-1 extension kit
+* [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome with embedded fast update screen with EXT3-1 extension kit
 * [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens with EXT3-Touch extension kit
-* [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour (black-white-red-yellow) screens with EXT3-1 extension kit
+* [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour Spectra 4 (black-white-red-yellow) screens with EXT3-1 extension kit
 
 ## Documentation
 
@@ -40,7 +40,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 
 **Hardware**
 
-+ iTC [monochrome](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white) and [colour (black-white-red)](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white-red) screens with [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) board
++ iTC [monochrome](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white) and [colour Spectra (black-white-red)](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white-red) screens with [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) board
 + iTC [monochrome touch-screens](https://www.pervasivedisplays.com/products/?_sft_etc_itc=tp) with [Touch Expansion Board for EXT3 (EXT3-Touch)](https://www.pervasivedisplays.com/product/touch-expansion-board-ext3-touch/) and [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) boards
-* [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour (black-white-red-yellow) screens
+* iTC [colour Spectra 4 (black-white-red-yellow)](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white-red-yellow) screens
 + [EPD Pico Kit (EPDK)](https://www.pervasivedisplays.com/product/epd-pico-kit-epdk/), including a Raspberry Pi Pico RP2040, an EXT3-1 extension board and a 2.66" monochrome panel
