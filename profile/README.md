@@ -22,7 +22,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 
 * [PDLS_EXT3_Basic_Global](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Global) for Pervasive Displays iTC monochrome and colour Spectra (black-white-red) screens (films `C` and `J`) with EXT3.1 extension kit
 * [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome screens with embedded fast update (film `P`) with EXT3.1 extension kit
-* [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Wide) for Pervasive Displays monochrome screens with wide temperature and embedded fast update (film `K`) with EXT3.1 extension kit
+* [PDLS_EXT3_Basic_Wide](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Wide) for Pervasive Displays monochrome screens with wide temperature and embedded fast update (film `K`) with EXT3.1 extension kit
 * [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens with EXT3-Touch extension kit
 * [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour Spectra 4 (black-white-red-yellow) screens (film `Q`) with EXT3.1 extension kit
 
