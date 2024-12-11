@@ -46,4 +46,4 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 * iTC [monochrome touch-screens](https://www.pervasivedisplays.com/products/?_sft_etc_itc=tp) with [Touch Expansion Board for EXT3 (EXT3-Touch)](https://www.pervasivedisplays.com/product/touch-expansion-board-ext3-touch/) and [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) boards
 * iTC [colour Spectra 4 (black-white-red-yellow)](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white-red-yellow) screens
 * [EPD Pico Kit (EPDK)](https://www.pervasivedisplays.com/product/epd-pico-kit-epdk/), including a Raspberry Pi Pico RP2040, an EXT3-1 extension board and a 2.66" monochrome panel
-* **NEW** [Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter)](https://www.pervasivedisplays.com/product/epdk-matter/)
+* ![](https://img.shields.io/badge/-NEW-orange) [Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter)](https://www.pervasivedisplays.com/product/epdk-matter/)
