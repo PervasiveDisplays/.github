@@ -25,7 +25,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 * [PDLS_EXT3_Basic_Wide](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Wide) for Pervasive Displays monochrome screens with wide temperature and embedded fast update (film `K`) with EXT3.1 extension kit
 * [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens with EXT3-Touch extension kit
 * [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour Spectra 4 (black-white-red-yellow) screens (film `Q`) with EXT3.1 extension kit
-* [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update (film `K`)
+* **NEW** [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update (film `K`)
 
 ## Documentation
 
@@ -43,6 +43,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 **Hardware**
 
 + iTC [monochrome](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white) and [colour Spectra (black-white-red)](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white-red) screens with [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) board
-+ iTC [monochrome touch-screens](https://www.pervasivedisplays.com/products/?_sft_etc_itc=tp) with [Touch Expansion Board for EXT3 (EXT3-Touch)](https://www.pervasivedisplays.com/product/touch-expansion-board-ext3-touch/) and [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) boards
+* iTC [monochrome touch-screens](https://www.pervasivedisplays.com/products/?_sft_etc_itc=tp) with [Touch Expansion Board for EXT3 (EXT3-Touch)](https://www.pervasivedisplays.com/product/touch-expansion-board-ext3-touch/) and [EPD Extension Kit Gen 3 (EXT3 or EXT3-1)](https://www.pervasivedisplays.com/product/epd-extension-kit-gen-3-EXT3/) boards
 * iTC [colour Spectra 4 (black-white-red-yellow)](https://www.pervasivedisplays.com/products/?_sft_product_colour=black-white-red-yellow) screens
-+ [EPD Pico Kit (EPDK)](https://www.pervasivedisplays.com/product/epd-pico-kit-epdk/), including a Raspberry Pi Pico RP2040, an EXT3-1 extension board and a 2.66" monochrome panel
+* [EPD Pico Kit (EPDK)](https://www.pervasivedisplays.com/product/epd-pico-kit-epdk/), including a Raspberry Pi Pico RP2040, an EXT3-1 extension board and a 2.66" monochrome panel
+* **NEW** [Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter)](https://www.pervasivedisplays.com/product/epdk-matter/)
