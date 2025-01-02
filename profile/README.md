@@ -8,10 +8,10 @@
 
 The **EPD hardware drivers** provide a quick example with built-in images for test.
 
-* [EPD_Driver_GU_small](https://github.com/PervasiveDisplays/EPD_Driver_GU_small) for small-sized 1.54", 2.13", 2.66", 2.71", 2.87", 3.70", 4.17" and 4.37" screens 
-* [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for mid-sized 5.81" and 7.41" screens
-* [EPD_Driver_GU_large](https://github.com/PervasiveDisplays/EPD_Driver_GU_large) for large-sized 9.69" and 11.98" screens
-* [EPD_Driver_GF_small](https://github.com/PervasiveDisplays/EPD_Driver_GF_small) for PS/KS-type small-sized 1.52", 1.54", 2.13", 2.66", 2.71", 2.92", 3.70", 4.17" and 4.37" screens
+* [EPD_Driver_GU_small](https://github.com/PervasiveDisplays/EPD_Driver_GU_small) for small-sized 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens 
+* [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for mid-sized 5.81" and 7.4" screens
+* [EPD_Driver_GU_large](https://github.com/PervasiveDisplays/EPD_Driver_GU_large) for large-sized 9.7" and 12" screens
+* [EPD_Driver_GF_small](https://github.com/PervasiveDisplays/EPD_Driver_GF_small) for PS/KS-type small-sized 1.52", 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
 * [EPD_Driver_GF_581_PS](https://github.com/PervasiveDisplays/EPD_Driver_GF_581_PS) for PS-type mid-sized PS-type 5.81" screens
 * [EPD_Driver_GF_581_KS](https://github.com/PervasiveDisplays/EPD_Driver_GF_581_KS) for PS-type mid-sized KS-type (wide temp) 5.81" screens
 * [EPD_Driver_BWRY](https://github.com/PervasiveDisplays/EPD_Driver_BWRY) for Spectra 4/BWRY type screens
