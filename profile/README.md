@@ -10,7 +10,7 @@ The following drivers provide a quick example with built-in images for test.
 
 * [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for Wide-Temperature small-sized 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
 * [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for Wide-Temperature medium-sized 5.81" and 7.4" screens
-* [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.13", 2.66", 4.2" Spectra 4/BWRY type screens
+* [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.13", 2.66", 4.2" Spectra 4/BWRY/four color type screens
 
 ## Pervasive Displays Library Suite 
 
@@ -29,7 +29,7 @@ The **EPD hardware drivers** provide a quick example with built-in images for te
 * [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for mid-sized 5.81" and 7.4" screens
 * [EPD_Driver_GU_large](https://github.com/PervasiveDisplays/EPD_Driver_GU_large) for large-sized 9.7" and 12" screens
 * [EPD_Driver_GF_small](https://github.com/PervasiveDisplays/EPD_Driver_GF_small) for KS-type small-sized 1.52", 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
-* [EPD_Driver_GF_581_KS](https://github.com/PervasiveDisplays/EPD_Driver_GF_581_KS) for PS-type mid-sized KS-type (wide temp) 5.81" screens
+* [EPD_Driver_GF_581_KS](https://github.com/PervasiveDisplays/EPD_Driver_GF_581_KS) for KS-type mid-sized (wide temp) 5.81" screens
 * [EPD_Driver_BWRY](https://github.com/PervasiveDisplays/EPD_Driver_BWRY) for Spectra 4/BWRY type screens
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
