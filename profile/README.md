@@ -22,6 +22,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 * ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update (film `K`)
 
 ## Legacy Drivers and Libraries
+This section refers to legacy versions of our libraries and will no longer be updated. Please proceed to the section above for the latest.
 
 The **EPD hardware drivers** provide a quick example with built-in images for test.
 
