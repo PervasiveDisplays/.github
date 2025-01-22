@@ -8,7 +8,7 @@
 
 The following drivers provide a quick example with built-in images for test.
 
-* [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for Wide-Temperature small-sized 1.52", 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
+* [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for Wide-Temperature small-sized 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
 * [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for Wide-Temperature medium-sized 5.81" and 7.4" screens
 * [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.13", 2.66", 4.2" Spectra 4/BWRY type screens
 
