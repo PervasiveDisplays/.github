@@ -12,6 +12,8 @@ The following drivers provide a quick example with built-in images for test. **P
 * [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for Wide-Temperature medium-sized 5.81" and 7.4" screens
 * [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.13", 2.66", 4.2" Spectra 4/BWRY/four color type screens
 
+For BWR/Spectra models, you may either choose from the [**EPD_Driver_GU drivers**](#legacy-drivers-and-libraries) or [**PDLS_EXT3_Basic_Global**](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Global)
+
 ## Pervasive Displays Library Suite 
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
