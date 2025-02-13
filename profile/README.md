@@ -22,7 +22,6 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 
 * [PDLS_Common](https://github.com/PervasiveDisplays/PDLS_Common) provides a light hardware abstraction layer with C-like syntax for C and C++ SDKs. It is required by the drivers and the PDLS library.
 * [PDLS_Basic](https://github.com/PervasiveDisplays/PDLS_Basic) for Pervasive Displays with wide temperature and embedded fast update (film `K`) and four color (film `Q`) with EXT3.1 extension kit
-* [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens with EXT3-Touch extension kit
 * ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update (film `K`)
 
 ## Legacy Drivers and Libraries
