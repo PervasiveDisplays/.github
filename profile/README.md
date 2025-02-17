@@ -21,8 +21,8 @@ For BWR/Spectra models, you may either choose from the [**EPD_Driver_GU drivers*
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
 
 * [PDLS_Common](https://github.com/PervasiveDisplays/PDLS_Common) provides a light hardware abstraction layer with C-like syntax for C and C++ SDKs. It is required by the drivers and the PDLS library.
-* [PDLS_Basic](https://github.com/PervasiveDisplays/PDLS_Basic) for Pervasive Displays with wide temperature and embedded fast update (film `K`) and four color (film `Q`) with EXT3.1 extension kit
-* ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update (film `K`)
+* [PDLS_Basic](https://github.com/PervasiveDisplays/PDLS_Basic) for Pervasive Displays with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) and four color ([film `Q`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) with EXT3.1 extension kit
+* ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film))
 
 ## Legacy Drivers and Libraries
 This section refers to legacy versions of our libraries and will no longer be updated. Please proceed to the section above for the latest.
@@ -38,11 +38,11 @@ The **EPD hardware drivers** provide a quick example with built-in images for te
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
 
-* [PDLS_EXT3_Basic_Global](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Global) for Pervasive Displays iTC monochrome and colour Spectra (black-white-red) screens (films `C` and `J`) with EXT3.1 extension kit
-* [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome screens with embedded fast update (film `P`) with EXT3.1 extension kit
+* [PDLS_EXT3_Basic_Global](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Global) for Pervasive Displays iTC monochrome and colour Spectra (black-white-red) screens ([films `C` and `J`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) with EXT3.1 extension kit
+* [PDLS_EXT3_Basic_Fast](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Fast) for Pervasive Displays monochrome screens with embedded fast update ([film `P`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) with EXT3.1 extension kit
 * [PDLS_EXT3_Basic_Touch](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Touch) for Pervasive Displays iTC monochrome touch-screens with EXT3-Touch extension kit
-* [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour Spectra 4 (black-white-red-yellow) screens (film `Q`) with EXT3.1 extension kit
-* ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update (film `K`)
+* [PDLS_EXT3_Basic_BWRY](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_BWRY) for Pervasive Displays iTC colour Spectra 4 (black-white-red-yellow) screens ([film `Q`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) with EXT3.1 extension kit
+* ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film))
 
 ## Documentation
 
