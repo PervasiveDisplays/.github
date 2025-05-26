@@ -8,8 +8,8 @@
 
 The following drivers provide a quick example with built-in images for test. **PDLS Common** is required to use these drivers.
 
-* [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for Wide-Temperature small-sized 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
-* [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for Wide-Temperature medium-sized 5.81" and 7.4" screens
+* [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for small-sized, monochrome/BW, wide-temperature 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
+* [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for medium-sized, monochrome/BW, wide-temperature 5.81" and 7.4" screens
 * [Pervasive_Wide_Large](https://github.com/PervasiveDisplays/Pervasive_Wide_Large) for large, monochrome, wide-temperature screens, with built-in images for test
 * [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.13", 2.66", 4.2" Spectra 4/BWRY/four color type screens
 * [Pervasive_Touch_Small](https://github.com/PervasiveDisplays/Pervasive_Touch_Small) Hardware driver for small, monochrome, touch-enabled screens
@@ -24,16 +24,11 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 * [PDLS_Basic](https://github.com/PervasiveDisplays/PDLS_Basic) for Pervasive Displays with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) and four color ([film `Q`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) with EXT3.1 extension kit
 * ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film))
 
-## Legacy Drivers and Libraries
+## Legacy Libraries
 This section refers to legacy versions of our libraries and will no longer be updated. Please proceed to the section above for the latest.
 
 The **EPD hardware drivers** provide a quick example with built-in images for test.
 
-* [EPD_Driver_GU_small](https://github.com/PervasiveDisplays/EPD_Driver_GU_small) for small-sized 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens 
-* [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for mid-sized 5.81" and 7.4" screens
-* [EPD_Driver_GU_large](https://github.com/PervasiveDisplays/EPD_Driver_GU_large) for large-sized 9.7" and 12" screens
-* [EPD_Driver_GF_small](https://github.com/PervasiveDisplays/EPD_Driver_GF_small) for KS-type small-sized 1.52", 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
-* [EPD_Driver_GF_581_KS](https://github.com/PervasiveDisplays/EPD_Driver_GF_581_KS) for KS-type mid-sized (wide temp) 5.81" screens
 * [EPD_Driver_BWRY](https://github.com/PervasiveDisplays/EPD_Driver_BWRY) for Spectra 4/BWRY type screens
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
