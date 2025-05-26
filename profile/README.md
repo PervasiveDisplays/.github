@@ -29,6 +29,9 @@ This section refers to legacy versions of our libraries and will no longer be up
 
 The **EPD hardware drivers** provide a quick example with built-in images for test.
 
+* [EPD_Driver_GU_small](https://github.com/PervasiveDisplays/EPD_Driver_GU_small) for BW/BWR small-sized 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens 
+* [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for BW/BWR mid-sized 5.81" and 7.4" screens
+* [EPD_Driver_GU_large](https://github.com/PervasiveDisplays/EPD_Driver_GU_large) for BW/BWR large-sized 9.7" and 12" screens
 * [EPD_Driver_BWRY](https://github.com/PervasiveDisplays/EPD_Driver_BWRY) for Spectra 4/BWRY type screens
 
 The **Pervasive Displays Library Suite** is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) screens and boards. It provides the text and graphic primitives for all the screens and supports capacitive touch on touch-screens.
