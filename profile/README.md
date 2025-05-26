@@ -27,7 +27,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 ## Legacy Libraries
 This section refers to legacy versions of our libraries and will no longer be updated. Please proceed to the section above for the latest.
 
-The **EPD hardware drivers** provide a quick example with built-in images for test.
+The **EPD hardware drivers** provide a quick example with built-in images for test. These four are all for **global/normal update ONLY**.
 
 * [EPD_Driver_GU_small](https://github.com/PervasiveDisplays/EPD_Driver_GU_small) for BW/BWR small-sized 1.54", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens 
 * [EPD_Driver_GU_mid](https://github.com/PervasiveDisplays/EPD_Driver_GU_mid) for BW/BWR mid-sized 5.81" and 7.4" screens
