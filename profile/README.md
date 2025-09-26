@@ -11,7 +11,7 @@ The following drivers provide a quick example with built-in images for test. **P
 * [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for small-sized, monochrome/BW, wide-temperature 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
 * [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for medium-sized, monochrome/BW, wide-temperature 3.4", 5.81" and 7.4" screens
 * [Pervasive_Wide_Large](https://github.com/PervasiveDisplays/Pervasive_Wide_Large) for large, monochrome, wide-temperature screens, with built-in images for test
-* [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.06", 2.13", 2.66", 4.2" Spectra 4/BWRY/four color type screens
+* [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.54", 2.06", 2.13", 2.66", 4.2", 4.37" Spectra 4/BWRY/four color type screens
 * [Pervasive_Touch_Small](https://github.com/PervasiveDisplays/Pervasive_Touch_Small) Hardware driver for small, monochrome, touch-enabled screens
   
 For BWR/Spectra models, you may either choose from the [**EPD_Driver_GU drivers**](#legacy-libraries) or [**PDLS_EXT3_Basic_Global**](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Global)
