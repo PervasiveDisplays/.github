@@ -46,7 +46,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 ## Documentation
 
 * [Documentation](https://github.com/PervasiveDisplays/PDLS_EXT3_Basic_Documentation)
-* [Wiki](https://docs.pervasivedisplays.com/)
+* [Wiki](https://docs.pervasivedisplays.com/) [![](https://img.shields.io/badge/-Knowledge_Base-orange)](https://docs.pervasivedisplays.com/knowledge/)
 
 ## Configuration
 
