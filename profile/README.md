@@ -8,7 +8,7 @@
 
 The following drivers provide a quick example with built-in images for test. **PDLS Common** is required to use these drivers.
 
-* [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for small-sized, monochrome/BW, wide-temperature 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
+* [Pervasive_Wide_Small](https://github.com/PervasiveDisplays/Pervasive_Wide_Small) for small-sized, monochrome/BW, wide-temperature 0.97", 1.52", 1.54", 2.06", 2.13", 2.66", 2.71", 2.9", 3.70", 4.2" and 4.37" screens
 * [Pervasive_Wide_Medium](https://github.com/PervasiveDisplays/Pervasive_Wide_Medium) for medium-sized, monochrome/BW, wide-temperature 3.4", 5.81" and 7.4" screens
 * [Pervasive_Wide_Large](https://github.com/PervasiveDisplays/Pervasive_Wide_Large) for large, monochrome, wide-temperature screens, with built-in images for test
 * [Pervasive_BWRY_Small](https://github.com/PervasiveDisplays/Pervasive_BWRY_Small) for small-sized 1.52", 1.54", 2.06", 2.13", 2.66", 2.9", 4.2", 4.37" Spectra 4/BWRY/four color type screens
@@ -24,7 +24,7 @@ The **Pervasive Displays Library Suite** is specifically designed for the [Perva
 
 * [PDLS_Common](https://github.com/PervasiveDisplays/PDLS_Common) provides a light hardware abstraction layer with C-like syntax for C and C++ SDKs. It is required by the drivers and the PDLS library.
 * [PDLS_Basic](https://github.com/PervasiveDisplays/PDLS_Basic) for Pervasive Displays with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) and four color ([film `Q`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film)) with EXT3.1/EXT3.2 extension kit
-* ![](https://img.shields.io/badge/-NEW-orange) [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film))
+* [PDLS_EXT4_Basic_Matter](https://github.com/PervasiveDisplays/PDLS_EXT4_Basic_Matter) for Pervasive Displays E-Paper Development Kit for Matter (EPDK-Matter) and monochrome screens with wide temperature and embedded fast update ([film `K`](https://pdls.pervasivedisplays.com/userguide/Volume2/Chapter1/Section6.html#film))
 
 ## Legacy Libraries
 This section refers to legacy versions of our libraries and will no longer be updated. Please proceed to the section above for the latest.
